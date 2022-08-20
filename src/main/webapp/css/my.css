@@ -1,0 +1,10 @@
+th, td {
+    border: 1px solid yellow;
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+}
