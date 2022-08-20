@@ -1,0 +1,26 @@
+th, td {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    background: aqua;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+}
+
+#input_new_name, #input_new_title, #input_new_birthday, #input_new_banned, #input_new_level, #input_new_profession,
+#input_new_race{
+    width: 150px;
+    background-position: 95% 50%;
+    border-radius: 5px;
+    position: absolute;
+    left: 150px;
+}
+
+.save {
+    position: absolute;
+    left: 120px;
+}
+
